@@ -19,6 +19,7 @@ int main()
 		cout << "Dung";
 	else
 		cout << "Sai";
+	cout << "Conflict from master";
 	return 0;
 }
 
